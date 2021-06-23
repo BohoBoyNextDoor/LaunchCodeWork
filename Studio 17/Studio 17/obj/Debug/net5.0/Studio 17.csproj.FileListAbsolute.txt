@@ -1,0 +1,16 @@
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\bin\Debug\net5.0\Studio 17.exe
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\bin\Debug\net5.0\Studio 17.deps.json
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\bin\Debug\net5.0\Studio 17.runtimeconfig.json
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\bin\Debug\net5.0\Studio 17.runtimeconfig.dev.json
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\bin\Debug\net5.0\Studio 17.dll
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\bin\Debug\net5.0\ref\Studio 17.dll
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\bin\Debug\net5.0\Studio 17.pdb
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.csproj.AssemblyReference.cache
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.AssemblyInfoInputs.cache
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.AssemblyInfo.cs
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.csproj.CoreCompileInputs.cache
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.dll
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\ref\Studio 17.dll
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.pdb
+C:\Users\Tanner Martin\source\repos\Studio 17\Studio 17\obj\Debug\net5.0\Studio 17.genruntimeconfig.cache
